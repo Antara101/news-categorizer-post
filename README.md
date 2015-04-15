@@ -1,4 +1,6 @@
-# news-post
+#news-categorizer-post
+
+News classification and insights combining MonkeyLearn and Kimono
 
 This post shows you how to combine the power of [Kimono](http://kimonolabs.com) and [Monkeylearn](http://monkeylearn.com) to scrape news sites and analyze articles in order to gain insights on the different news outlets as well as what's happening around us.
 
