@@ -1,3 +1,5 @@
+***(Note that this is an old repo, the code here is using the now deprecated API v1. We recommend you use the official python API client: https://github.com/monkeylearn/monkeylearn-python)***
+
 #news-categorizer-post
 
 News classification and insights combining MonkeyLearn and Kimono
